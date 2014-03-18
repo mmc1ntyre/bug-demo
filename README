@@ -1,0 +1,1 @@
+This is a sample rails project to demonstrate a bug in jruby-rack where the assets are not displaying.
